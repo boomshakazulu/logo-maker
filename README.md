@@ -25,7 +25,8 @@
 
 ## Usage
 
-  Once installed run node index.js. You will be present with questions, input 1-3 characters, choose a font color by color name or hexadecimal code, choose a background color by name or hexadecimal code and choose a shape from the list. the the image will be generated in the make folder as "logo.svg" in the SVG format.
+  Once installed run node index.js. You will be present with questions, input 1-3 characters, choose a font color by color name or hexadecimal code, choose a background color by name or hexadecimal code and choose a shape from the list. the the image will be generated in the make folder as "logo.svg" in the SVG format.[See a video tutorial here!](https://github.com/boomshakazulu/logo-maker/assets/120769113/39f163a1-512c-4ccc-8454-c7917f8e825c)
+
 
 ---
 
